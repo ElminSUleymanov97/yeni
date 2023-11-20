@@ -1,0 +1,45 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+/* li {
+  margin: 20px 5px;
+} */
+/* .box ul li a,
+.box .box-body a{
+
+    padding: 5px;
+    color: #fff;
+    background-color: chartreuse;
+} */
+
+/* .box > a {
+  padding: 10px;
+  background-color: chartreuse;
+  color: #fff;
+} */
+/* .box a{
+    padding: 10px;
+    background-color: chartreuse;
+    color: #fff;
+    } */
+/* .box-body-1,
+.box-body-1 + div {
+  background-color: #f6f68f;
+  width: 300px;
+  height: 300px;
+} */
+.main-section p {
+  width: 800px;
+  margin: 30px 15px;
+  padding: 7px 13px;
+  background-color: #17183b;
+  color: white;
+  text-align: justify;
+  direction: ltr;
+  text-decoration: none;
+  line-height: 50px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}

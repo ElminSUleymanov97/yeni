@@ -1,0 +1,47 @@
+body {
+  background-color: #d5d2d2;
+}
+
+.main--head {
+  background-color: antiquewhite;
+  color: rgb(70, 24, 236);
+}
+.secondary--head {
+  background-color: crimson;
+  color: #2d888f;
+}
+
+.header--primary {
+  width: 300px;
+  padding: 16px;
+  height: 100px;
+}
+.link--one {
+  background-color: #05468d;
+  padding: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+#LinkPrimary {
+  background-color: #37975c;
+}
+
+.box {
+  width: 200px;
+  height: 100px;
+  border: 20px solid#03993f;
+}
+span {
+  background-color: #2ce408;
+}
+.box--primary {
+  background-color: #279af1;
+  margin: 10px;
+  padding: 20px;
+}
+.box--secondary {
+  background-color: #ec1919;
+  margin: 10px;
+  padding: 20px;
+}

@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 300px;
+    height: 300px;
+    margin: 10px 16px;
+    line-height: 300px;
+    font: size 24px;
+    text-align: center;
+    color: white;
+}
+.box-1{
+    background-color: #ef233c;
+}
+.box-2{
+    background-color: #83c5be;
+}
+.content{
+    padding: 13px;
+    background-color: #006d77;
+}

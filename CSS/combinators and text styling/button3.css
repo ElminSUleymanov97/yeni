@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* .button-groups {
+  margin-top: 30px;
+}
+.button-groups .btn {
+  text-decoration: none;
+  margin: 50px 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  word-spacing: 2px;
+  letter-spacing: 1px;
+  font-size: 16px;
+  padding: 9px 36px;
+}
+.btn-primary {
+  background-color: #00b4d8;
+  border: solid 2px #6d9f71;
+  border-width: 30px;
+  border-style: dotted;
+  border-radius: 10px;
+  color: white;
+  border-radius: 100px/150-eledikde 100 ustu 150 yan terefleri;100px yazsaq butun terefleri 100 goturecek
+}
+.btn-secondary {
+  background-color: transparent;
+  border-radius: 26px;
+  border: solid 2px #032320;
+  cursor:grabbing;
+} */
+.button-groups{
+  margin-top: 20px;
+}
+.button-groups .button-1{
+  text-decoration: none;
+  margin: 30px 40px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 0.5px;
+  font-size: 20px;
+  padding: 12px 60px;
+}
+.button-1{
+  background-color: #ffb703;
+  border: solid 2px white;
+  border-radius: 40px;
+  border-width: 2px;
+  color: black;
+}
+.button-groups .button-6{
+  text-decoration: none;
+  margin: 40px 40px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: rgb(158, 187, 238);
+  padding: 10px 30px;
+  border: solid 2px white;
+  color: rgba(0, 0, 0, 0.755);
+  font-size: 20px;
+  
+}
